@@ -7,6 +7,8 @@ public class Main {
     private int consoleWidth;
     private String text;
     private int operation;
+    
+    ////dfgdfgfdgdf
 
     private Main() {
         // Приватный конструктор
